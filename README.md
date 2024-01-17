@@ -1,9 +1,9 @@
-###  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheeMastermind&repo=github-readme-stats)](https://github.com/TheeMastermind/github-readme-stats) **TheeMastermind** 
+###   **TheeMastermind** 
 
 
 ![TheeMastermind's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheeMastermind&show_icons=true&theme=radical)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheeMastermind&layout=donut)](https://github.com/TheeMastermind/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheeMastermind&repo=github-readme-stats)](https://github.com/TheeMastermind/github-readme-stats)
 
 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
