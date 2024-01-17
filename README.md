@@ -1,8 +1,5 @@
-### <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0559/4788/6783/files/Cowboy_Bebop.gif?v=1679069497">
-<!--
-**TheeMastermind/TheeMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0559/4788/6783/files/Cowboy_Bebop.gif?v=1679069497">  <img align="left" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/kDBlQb1gYqt8amcrLp" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animatr-anime-aesthetic-animeaesthetic-kDBlQb1gYqt8amcrLp">via GIPHY</a></p>"><!-- [![MasterHead](https://cdn.shopify.com/s/files/1/0559/4788/6783/files/Ramen.gif?v=1679069498)](https://github.com/TheeMastermind)**TheeMastermind/TheeMastermind** 
 
-Here are some ideas to get you started:
 
   
 - 🔭 I’m currently working on ...
